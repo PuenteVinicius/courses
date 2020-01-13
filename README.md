@@ -1,2 +1,2 @@
 # courses
-repository with courses i have studied 
+repository with courses i have studied
